@@ -3,11 +3,8 @@
 POCSAG made easy.
 
 This code was written as a solution to [0xoposec challenge](https://www.meetup.com/0xOPOSEC/events/255388262/).
-
 A python implementation with minimal dependencies.
-
 This pocsag solution was highly based on this specification [http://www.braddye.com/pocsag.html](http://www.braddye.com/pocsag.html).
-
 Thanks to Nuno Humberto for BCH implementation.
 
 ## How to use:
@@ -26,3 +23,5 @@ I have written this code has an alternative to decode pocsag messages. This solu
 ## How can I test this decoder?:
 Create a message using [gr-mixalot](https://github.com/unsynchronized/gr-mixalot) and gnuradio-companion.
 If it fails to compile check my [patch](https://aur.archlinux.org/packages/gr-mixalot-git/)
+
+
