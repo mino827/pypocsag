@@ -5,7 +5,9 @@ POCSAG made easy.
 This code was written as a solution to [0xoposec challenge](https://www.meetup.com/0xOPOSEC/events/255388262/).
 
 A python implementation with minimal dependencies.
+
 This pocsag solution was highly based on this specification [http://www.braddye.com/pocsag.html](http://www.braddye.com/pocsag.html).
+
 Thanks to Nuno Humberto for BCH implementation.
 
 ## How to use:
